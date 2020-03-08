@@ -1,8 +1,8 @@
 {
   "name": "hexdump",
   "main": "./lib/index.js",
-  "version": "1.0.0",
-  "description": "Markdown Hexdump format plugin for Inkdrop",
+  "version": "1.0.1",
+  "description": "Enables Hexdump support within Markdown",
   "keywords": [],
   "repository": "https://github.com/john-k/inkdrop-hexdump",
   "license": "MIT",
