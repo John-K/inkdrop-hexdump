@@ -1,4 +1,5 @@
-# Markdown Hexdump Inkdrop Plugin
+# Markdown Hexdump Inkdrop Plugin 
+![](https://inkdrop-plugin-badge.vercel.app/api/version/hexdump) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/hexdump)
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) which adds a hexdump formatting component to markdown.
 
